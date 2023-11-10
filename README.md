@@ -23,8 +23,9 @@ gap:5px" >
 <div>
 
 ![](https://github-readme-stats.vercel.app/api?username=techtobit&theme=radical&hide_border=false&include_all_commits=true&count_private=true)</div>
+</div>
 <div>
-    
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=techtobit&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
