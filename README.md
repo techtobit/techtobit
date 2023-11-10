@@ -1,4 +1,4 @@
-<div align='center'>
+<div >
 
 ## 💫 About Me:
 Im a Full Stack Developer With 1.5 Years of Experience.
