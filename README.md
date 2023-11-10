@@ -6,6 +6,7 @@
 I'm MD ASHRAF UDDIN, a passionate Full Stack Web Developer from Chittagong, Bangladesh. With 1.5 years of strong experience in technology and programming, I embarked on an exciting journey into web development.
 
 🚀 INTERNSHIP EXPERIENCES 🚀
+<br>
 I've gained valuable industry experience through my ongoing paid internship as a Frontend Developer at Edufied. Collaborating closely with the design team, I've implemented user-facing features using HTML, CSS, JavaScript, Storybook, and React.Js
 
 
@@ -52,7 +53,6 @@ I've gained valuable industry experience through my ongoing paid internship as a
 
 ### LeetCode:
 ![LeetCode Stats](https://leetcode.card.workers.dev/ashrafuddin17?theme=default&font=source_code_pro&extension=null)
-![Hackerrank](https://i.ibb.co/6wqyDSD/Screenshot-from-2023-11-10-21-59-48.png)
 
 ### GitHub Stats:
 [![Github stats](https://github-readme-stats.vercel.app/api?username=techtobit&show_icons=true&include_all_commits=true)](https://github.com/techtobit/github-readme-stats)
