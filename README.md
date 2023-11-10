@@ -18,11 +18,11 @@ Im a Full Stack Developer With 1.5 Years of Experience.
 
 ## 📊 GitHub Stats:
 <div style="display:flex;
-flex-direction: row;
-gap:5px" >
+flex-direction: row;>
+  
 <div>
 
-![](https://github-readme-stats.vercel.app/api?username=techtobit&theme=radical&hide_border=false&include_all_commits=true&count_private=true)</div>
+![](https://github-readme-stats.vercel.app/api?username=techtobit&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 </div>
 <div>
 
