@@ -1,8 +1,12 @@
 <div >
+  
 ![profile_cover](https://i.ibb.co/M6crNyh/git-Profile-Cover.jpg)
   
 ### 💫 About Me:
-Im a Full Stack Developer With 1.5 Years of Experience.
+I'm MD ASHRAF UDDIN, a passionate Full Stack Web Developer from Chittagong, Bangladesh. With 1.5 years of strong experience in technology and programming, I embarked on an exciting journey into web development.
+
+🚀 INTERNSHIP EXPERIENCES 🚀
+I've gained valuable industry experience through my ongoing paid internship as a Frontend Developer at Edufied. Collaborating closely with the design team, I've implemented user-facing features using HTML, CSS, JavaScript, Storybook, and React.Js
 
 
 ### Socials:
