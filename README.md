@@ -5,7 +5,8 @@ Im a Full Stack Developer With 1.5 Years of Experience.
 
 
 ## 🌐 Socials:
-[![Protfoli](https://ashrafuddin.vercel.app/)]
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dev.ashraf.uddin@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://pytopia.ai)]([https://pytopia.ai](https://ashrafuddin.vercel.app/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashrafuddin17) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/md-ashraf-uddin) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC0pIXFHsiHUODADFzUQe_Tg) 
 
 ## 💻 Tech Stack:
