@@ -21,6 +21,16 @@ Im a Full Stack Developer With 1.5 Years of Experience.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techtobit&layout=compact)](https://github.com/techtobit/github-readme-stats)
 
 
+
+## Git
+## Hey 👋, [![Github Badge](https://img.shields.io/badge/-techtobit-grey?style=flat&logo=github&logoColor=white&link=https://github.com/techtobit/)](https://www.github.com/techtobit/) 
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=techtobit alt=techtobit /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=techtobit&show_icons=true&include_all_commits=true)](https://github.com/techtobit/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techtobit&layout=compact)](https://github.com/techtobit/github-readme-stats)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=techtobit&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
