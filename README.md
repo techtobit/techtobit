@@ -18,7 +18,7 @@ Im a Full Stack Developer With 1.5 Years of Experience.
 
 ## 📊 GitHub Stats:
 <div style="display:flex;
-flex-direction: row;>
+flex-direction: row;">
   
 <div>
 
