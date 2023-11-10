@@ -10,7 +10,23 @@ Im a Full Stack Developer With 1.5 Years of Experience.
 
 # LeetCode:
 ![LeetCode Stats](https://leetcode.card.workers.dev/ashrafuddin17?theme=dark&font=source_code_pro&extension=null)
+<div class="hackerrank-widget-profile-info" ng-controller="GenericHackerRankController" data-method='' data-ignoreoffset='true'>
 
+    <a href='{{baseUrl}}/{{data.model.username}}' target='_blank' title='Check profile' class='hackerrank-widget-pi-left'>
+        <img ng-src='{{data.model.avatar}}' class='hackerrank-widget-avatar'/>
+    </a>
+
+    <div class='hackerrank-widget-pi-right hackerrank-shadowed'>
+        <div class="hrUserRealName">{{data.model.name}}</div>
+        <a href='{{baseUrl}}/{{data.model.username}}' target='_blank'
+           class="hrUserNameLink" title='Check profile'>
+            @{{data.model.username}}
+        </a>
+
+        <div title='Company'>{{data.model.company}}</div>
+        <div title='Language' style=''>{{data.model.language}}</div>
+    </div>
+</div>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=techtobit&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=techtobit&theme=dark&hide_border=false)<br/>
