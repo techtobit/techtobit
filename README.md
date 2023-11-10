@@ -17,8 +17,8 @@ Im a Full Stack Developer With 1.5 Years of Experience.
 
 
 ## 📊 GitHub Stats:
-[![Github stats](https://github-readme-stats.vercel.app/api?username=techtobit&theme=dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/techtobit/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techtobittheme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/techtobit/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=techtobit&show_icons=true&include_all_commits=true)](https://github.com/techtobit/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techtobit&layout=compact)](https://github.com/techtobit/github-readme-stats)
 
 
 
