@@ -5,6 +5,7 @@ Im a Full Stack Developer With 1.5 Years of Experience.
 
 
 ## 🌐 Socials:
+[![Protfoli](https://ashrafuddin.vercel.app/)]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashrafuddin17) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/md-ashraf-uddin) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC0pIXFHsiHUODADFzUQe_Tg) 
 
 ## 💻 Tech Stack:
@@ -16,6 +17,9 @@ Im a Full Stack Developer With 1.5 Years of Experience.
 
 
 ## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=techtobit&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=techtobit&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=techtobit&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
