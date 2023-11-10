@@ -1,6 +1,6 @@
 <div >
   
-![profile_cover](https://i.ibb.co/2kMDtFv/1665317729178.jpg)
+![profile_cover](https://i.ibb.co/zGFSPQp/git-Profile-Cover.png)
   
 ### 💫 About Me:
 I'm MD ASHRAF UDDIN, a passionate Full Stack Web Developer from Chittagong, Bangladesh. With 1.5 years of strong experience in technology and programming, I embarked on an exciting journey into web development.
