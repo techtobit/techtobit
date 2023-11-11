@@ -11,7 +11,7 @@ I've gained valuable industry experience through my ongoing paid internship as a
 
 
 ### Socials:
-[![portfolio](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://pytopia.ai)]([https://pytopia.ai](https://ashrafuddin.vercel.app/))
+[![portfolio](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://pytopia.ai)](https://ashrafuddin.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashrafuddin17)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/TECHTOBITS) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dev.ashraf.uddin@gmail.com)
