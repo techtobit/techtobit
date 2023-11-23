@@ -56,12 +56,8 @@ I've gained valuable industry experience through my ongoing paid internship as a
 ![LeetCode Stats](https://leetcode.card.workers.dev/ashrafuddin17?theme=default&font=source_code_pro&extension=null)
 
 ### GitHub Stats:
-[![Github stats](https://github-readme-stats.vercel.app/api?username=techtobit&show_icons=true&include_all_commits=true)](https://github.com/techtobit/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techtobit&layout=compact)](https://github.com/techtobit/github-readme-stats)
 
-
-### GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=techtobit&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=techtobit&icon=0&color=0)](https://visitcount.itsvg.in)
