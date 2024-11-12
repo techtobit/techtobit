@@ -19,23 +19,26 @@
 | Project Name | Tech Stack | Live Link | Repositories |
 |--------------|------------|-----------|-----------|
 | EduVibe    |``` Javascript, React, Firebase Auth, Tailwind ```| [Live App](https://startling-gelato-1988ff.netlify.app/home) | [Repo](https://github.com/username/project4) | [Link](https://github.com/techtobit/Edu-Vibe-Educational-Website) |
-| Wepplo    |``` Html, CSS, Sass, Javascript, Chart.Js, Tailwind ```| [Live App](https://wppoool.netlify.app/) | [Repo]([https://github.com/username/project5](https://github.com/techtobit/wppool)) |
+| Wepplo    |``` Html, CSS, Sass, Javascript, Chart.Js, Tailwind ```| [Live App](https://wppoool.netlify.app/) | [Repo](https://github.com/techtobit/wppool) |
 | Convention Hall |``` Javascript, React, FirebaseAuth, Tailwind ```| [Live App](https://doctor-portel-nine.vercel.app/) | [Repo](https://github.com/username/project6) | 
 | Busibud   |``` Html, CSS, Sass ```| [Live App](https://busibud.vercel.app/) | [Repo](https://github.com/username/project6) | 
 | Convention Hall |``` Html, CSS, Bootstrap ```| [Live App](https://cranky-carson-c98032.netlify.app/) | [Repo](https://github.com/username/project6) | 
 | E-commerce |``` Html, CSS, Tailwind ```| [Live App](https://animated-medovik-0790f9.netlify.app/) | [Repo](https://github.com/username/project6) | 
 | Nike |``` Html, CSS, Tailwind ```| [Live App](https://nikee-landing.netlify.app/) | [Repo](https://github.com/techtobit/nike-bootstrap) | 
-
+| Coursera |``` Html, CSS ```| [Live App](https://stately-torte-7478ef.netlify.app/) | [Repo](https://github.com/techtobit/nike-bootstrap) | 
 
 ---
 
-## C GRAD - Simple Front-End Projects
+## API Base 
 
 | Project Name | Tech Stack | Live Link | Repo Link | Image |
 |--------------|------------|-----------|-----------|-------|
-| Project 7    | Tech 1, Tech 2 | [Live App](https://example.com) | [Repo](https://github.com/username/project7) | ![Image](link-to-image7) |
-| Project 8    | Tech 1, Tech 2 | [Live App](https://example.com) | [Repo](https://github.com/username/project8) | ![Image](link-to-image8) |
-| Project 9    | Tech 1, Tech 2 | [Live App](https://example.com) | [Repo](https://github.com/username/project9) | ![Image](link-to-image9) |
+| Stock Market |``` React, Javascript, Typescript, Alpha Vantage API, Apexcharts, Flowbit``` | [Live App](https://github.com/techtobit/StockMarket) | [Repo](https://github.com/techtobit/StockMarket) |
+| Blog Post API |``` HTML, CSS, Javascript, ``` | [Live App](https://confident-saha-d731aa.netlify.app/) | [Repo](https://github.com/techtobit/StockMarket) |
+| PH Tube |``` HTML, CSS, Javascript, Youtube API ``` | [Live App](https://condescending-ardinghelli-a56222.netlify.app/) | [Repo](https://github.com/techtobit/StockMarket) |
+| Weather API |``` HTML, CSS, JS``` | [Live App](https://clever-wescoff-864cc9.netlify.app/?) | [Repo](https://github.com/techtobit/StockMarket) |
+| Phone API |``` HTML, CSS, JS``` | [Live App](https://condescending-ardinghelli-a56222.netlify.app/) | [Repo](https://github.com/techtobit/StockMarket) |
+| Country API |``` HTML, CSS, JS``` | [Live App](https://nifty-bhaskara-4bd62e.netlify.app/) | [Repo](https://github.com/techtobit/StockMarket) |
 
 
 
