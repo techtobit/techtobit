@@ -2,12 +2,34 @@
   
 ![profile_cover](https://i.ibb.co/zGFSPQp/git-Profile-Cover.png)
   
-### 💫 About Me:
-I'm MD ASHRAF UDDIN, a passionate Full Stack Web Developer from Chittagong, Bangladesh. With 1.5 years of strong experience in technology and programming, I embarked on an exciting journey into web development.
+## A GRAD - All the Good Projects
 
-🚀 INTERNSHIP EXPERIENCES 🚀
-<br>
-I've gained valuable industry experience through my ongoing paid internship as a Frontend Developer at Edufied. Collaborating closely with the design team, I've implemented user-facing features using HTML, CSS, JavaScript, Storybook, and React.Js
+| Project Name | Tech Stack | Live Link | Repo Link | Image |
+|--------------|------------|-----------|-----------|-------|
+| Project 1    | Tech 1, Tech 2 | [Live App](https://example.com) | [Repo](https://github.com/username/project1) | ![Image](link-to-image1) |
+| Project 2    | Tech 1, Tech 2 | [Live App](https://example.com) | [Repo](https://github.com/username/project2) | ![Image](link-to-image2) |
+| Project 3    | Tech 1, Tech 2 | [Live App](https://example.com) | [Repo](https://github.com/username/project3) | ![Image](link-to-image3) |
+
+---
+
+## B GRAD - Medium Level Projects
+
+| Project Name | Tech Stack | Live Link | Repo Link | Image |
+|--------------|------------|-----------|-----------|-------|
+| Project 4    | Tech 1, Tech 2 | [Live App](https://example.com) | [Repo](https://github.com/username/project4) | ![Image](link-to-image4) |
+| Project 5    | Tech 1, Tech 2 | [Live App](https://example.com) | [Repo](https://github.com/username/project5) | ![Image](link-to-image5) |
+| Project 6    | Tech 1, Tech 2 | [Live App](https://example.com) | [Repo](https://github.com/username/project6) | ![Image](link-to-image6) |
+
+---
+
+## C GRAD - Simple Front-End Projects
+
+| Project Name | Tech Stack | Live Link | Repo Link | Image |
+|--------------|------------|-----------|-----------|-------|
+| Project 7    | Tech 1, Tech 2 | [Live App](https://example.com) | [Repo](https://github.com/username/project7) | ![Image](link-to-image7) |
+| Project 8    | Tech 1, Tech 2 | [Live App](https://example.com) | [Repo](https://github.com/username/project8) | ![Image](link-to-image8) |
+| Project 9    | Tech 1, Tech 2 | [Live App](https://example.com) | [Repo](https://github.com/username/project9) | ![Image](link-to-image9) |
+
 
 
 ### Socials:
