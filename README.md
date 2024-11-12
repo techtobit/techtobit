@@ -4,23 +4,28 @@
   
 ## Full Stack
 
-| Project Name | Tech Stack | Live Link | Repo Link | Image |
+| Project Name | Tech Stack | Live Link | Front End Repo | BackEnd Repo |
 |--------------|------------|-----------|-----------|-------|
-| Hitachi    | ```Javascript, React, Node, MongoDB, Express, Tailwind``` | [Live App](https://hitachi-manufacturer-website-client-side.vercel.app/) | [Repo]([https://github.com/username/project1](https://github.com/techtobit/HITACHI-MANUFACTURER-WEBSITE-ClientSide)) | ![Image](link-to-image1) |
-| Car Cutter    | Javascript, React, Node, Express, MongoDB, Tailwind | [Live App](https://car-cutter-full-stack-website-client-side.vercel.app/) | [Repo]([https://github.com/username/project2](https://github.com/techtobit/Car-Cutter-FullStack-Website-Client-Side)) | ![Image](link-to-image2) |
-| Library management system    | Python, Django, Bootstrap | [Live App](https://library-ms-p5si.onrender.com/) | [Repo](https://github.com/techtobit/lms) | ![Image](link-to-image3) |
-| House Hold | Python, Django, Javascript, React, Redux, Vite, Tailwind | [Live App](https://house-hold-front-end.vercel.app/) | [Repo](https://github.com/techtobit/HouseHold_Front) | ![Image](link-to-image3) |
-| E-Pay(F-commerce) | Javascript, React, MongoDB, Mongoose, NodeJS, Express, Vite, Tailwind | [Live App](https://e-pay-beige.vercel.app/) | [Repo](https://github.com/techtobit/e-pay) | ![Image](link-to-image3) |
+| Hitachi    | ``` Javascript, React, Node, MongoDB, Express, Tailwind ``` | [Live App](https://hitachi-manufacturer-website-client-side.vercel.app/) | [Repo]([https://github.com/username/project1](https://github.com/techtobit/HITACHI-MANUFACTURER-WEBSITE-ClientSide)) | [Repo](https://github.com/techtobit/HITACHI-MANUFACTURER-WEBSITE-ServerSide) |
+| Car Cutter    |``` Javascript, React, Node, Express, MongoDB, Tailwind ```| [Live App](https://car-cutter-full-stack-website-client-side.vercel.app/) | [Repo]([https://github.com/username/project2](https://github.com/techtobit/Car-Cutter-FullStack-Website-Client-Side)) | [Repo](https://github.com/techtobit/Car-Cutter-FullStack-Website-ServerSide) |
+| Library management system    |``` Python, Django, Bootstrap ```| [Live App](https://library-ms-p5si.onrender.com/) | [Repo](https://github.com/techtobit/lms) | [None]('') |
+| House Hold |``` Python, Django, Javascript, Typescript, React, Redux, Vite, Tailwind ```| [Live App](https://house-hold-front-end.vercel.app/) | [Repo](https://github.com/techtobit/HouseHold_Front) | [](link-to-image3) |
+| E-Pay(F-commerce) |``` Javascript, React, MongoDB, Mongoose, NodeJS, Express, Vite, Tailwind ```| [Live App](https://e-pay-beige.vercel.app/) | [Repo](https://github.com/techtobit/e-pay) | [Repo](https://github.com/techtobit/POYSHAPAY_SERVER_MONGOOSE) |
 
 ---
 
-## B GRAD - Medium Level Projects
+## Front End
 
-| Project Name | Tech Stack | Live Link | Repo Link | Image |
-|--------------|------------|-----------|-----------|-------|
-| Project 4    | Tech 1, Tech 2 | [Live App](https://example.com) | [Repo](https://github.com/username/project4) | ![Image](link-to-image4) |
-| Project 5    | Tech 1, Tech 2 | [Live App](https://example.com) | [Repo](https://github.com/username/project5) | ![Image](link-to-image5) |
-| Project 6    | Tech 1, Tech 2 | [Live App](https://example.com) | [Repo](https://github.com/username/project6) | ![Image](link-to-image6) |
+| Project Name | Tech Stack | Live Link | Repositories |
+|--------------|------------|-----------|-----------|
+| EduVibe    |``` Javascript, React, Firebase Auth, Tailwind ```| [Live App](https://startling-gelato-1988ff.netlify.app/home) | [Repo](https://github.com/username/project4) | [Link](https://github.com/techtobit/Edu-Vibe-Educational-Website) |
+| Wepplo    |``` Html, CSS, Sass, Javascript, Chart.Js, Tailwind ```| [Live App](https://wppoool.netlify.app/) | [Repo]([https://github.com/username/project5](https://github.com/techtobit/wppool)) |
+| Convention Hall |``` Javascript, React, FirebaseAuth, Tailwind ```| [Live App](https://doctor-portel-nine.vercel.app/) | [Repo](https://github.com/username/project6) | 
+| Busibud   |``` Html, CSS, Sass ```| [Live App](https://busibud.vercel.app/) | [Repo](https://github.com/username/project6) | 
+| Convention Hall |``` Html, CSS, Bootstrap ```| [Live App](https://cranky-carson-c98032.netlify.app/) | [Repo](https://github.com/username/project6) | 
+| E-commerce |``` Html, CSS, Tailwind ```| [Live App](https://animated-medovik-0790f9.netlify.app/) | [Repo](https://github.com/username/project6) | 
+| Nike |``` Html, CSS, Tailwind ```| [Live App](https://nikee-landing.netlify.app/) | [Repo](https://github.com/techtobit/nike-bootstrap) | 
+
 
 ---
 
