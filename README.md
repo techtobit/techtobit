@@ -6,7 +6,7 @@
 
 | Project Name | Tech Stack | Live Link | Repo Link | Image |
 |--------------|------------|-----------|-----------|-------|
-| Hitachi    | Javascript, React, Node, MongoDB, Express, Tailwind | [Live App](https://hitachi-manufacturer-website-client-side.vercel.app/) | [Repo]([https://github.com/username/project1](https://github.com/techtobit/HITACHI-MANUFACTURER-WEBSITE-ClientSide)) | ![Image](link-to-image1) |
+| Hitachi    | ```Javascript, React, Node, MongoDB, Express, Tailwind``` | [Live App](https://hitachi-manufacturer-website-client-side.vercel.app/) | [Repo]([https://github.com/username/project1](https://github.com/techtobit/HITACHI-MANUFACTURER-WEBSITE-ClientSide)) | ![Image](link-to-image1) |
 | Car Cutter    | Javascript, React, Node, Express, MongoDB, Tailwind | [Live App](https://car-cutter-full-stack-website-client-side.vercel.app/) | [Repo]([https://github.com/username/project2](https://github.com/techtobit/Car-Cutter-FullStack-Website-Client-Side)) | ![Image](link-to-image2) |
 | Library management system    | Python, Django, Bootstrap | [Live App](https://library-ms-p5si.onrender.com/) | [Repo](https://github.com/techtobit/lms) | ![Image](link-to-image3) |
 | House Hold | Python, Django, Javascript, React, Redux, Vite, Tailwind | [Live App](https://house-hold-front-end.vercel.app/) | [Repo](https://github.com/techtobit/HouseHold_Front) | ![Image](link-to-image3) |
