@@ -40,7 +40,7 @@
 | Phone API |``` HTML, CSS, JS``` | [Live App](https://condescending-ardinghelli-a56222.netlify.app/) | [Repo](https://github.com/techtobit/StockMarket) |
 | Country API |``` HTML, CSS, JS``` | [Live App](https://nifty-bhaskara-4bd62e.netlify.app/) | [Repo](https://github.com/techtobit/StockMarket) |
 
-[](https://leetcode.card.workers.dev/ashrafuddin17?theme=default&font=baloo&extension=null)
+![](https://leetcode.card.workers.dev/ashrafuddin17?theme=default&font=baloo&extension=null)
 
 ### Socials:
 [![portfolio](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://pytopia.ai)](https://ashrafuddin.vercel.app/)
