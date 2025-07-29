@@ -6,7 +6,7 @@
 
 | Project Name | Tech Stack | Live Link | Front End Repo | BackEnd Repo |
 |--------------|------------|-----------|-----------|-------|
-| Hitachi    | ``` Javascript, React, Node, MongoDB, Express, Tailwind ``` | [Live App](bloodbank-v1.vercel.app) | []() | []() |
+| Blood Bank    | ``` Javascript, React, Node, MongoDB, Express, Tailwind, Python, Django, DRF, NeonDB, Vercel ``` | [Live App](bloodbank-v1.vercel.app) | []() | []() |
 | Hitachi    | ``` Javascript, React, Node, MongoDB, Express, Tailwind ``` | [Live App](https://hitachi-manufacturer-website-client-side.vercel.app/) | [Repo]([https://github.com/username/project1](https://github.com/techtobit/HITACHI-MANUFACTURER-WEBSITE-ClientSide)) | [Repo](https://github.com/techtobit/HITACHI-MANUFACTURER-WEBSITE-ServerSide) |
 | Car Cutter    |``` Javascript, React, Node, Express, MongoDB, Tailwind ```| [Live App](https://car-cutter-full-stack-website-client-side.vercel.app/) | [Repo]([https://github.com/username/project2](https://github.com/techtobit/Car-Cutter-FullStack-Website-Client-Side)) | [Repo](https://github.com/techtobit/Car-Cutter-FullStack-Website-ServerSide) |
 | Library management system    |``` Python, Django, Bootstrap ```| [Live App](https://library-ms-p5si.onrender.com/) | [Repo](https://github.com/techtobit/lms) | [None]('') |
