@@ -10,11 +10,11 @@
 | Hitachi    | ``` Javascript, React, Node, MongoDB, Express, Tailwind ``` | [Live App](https://hitachi-manufacturer-website-client-side.vercel.app/) | [Repo](https://github.com/techtobit/HITACHI-MANUFACTURER-WEBSITE-ClientSide) | [Repo](https://github.com/techtobit/HITACHI-MANUFACTURER-WEBSITE-ServerSide) |
 | Car Cutter    |``` Javascript, React, Node, Express, MongoDB, Tailwind ```| [Live App](https://car-cutter-full-stack-website-client-side.vercel.app/) | [Repo](https://github.com/techtobit/Car-Cutter-FullStack-Website-Client-Side) | [Repo](https://github.com/techtobit/Car-Cutter-FullStack-Website-ServerSide) |
 | Library management system    |``` Python, Django, Bootstrap ```| [Live App](https://library-ms-p5si.onrender.com/) | [Repo](https://github.com/techtobit/lms) | [None]('') |
-| House Hold |``` Python, Django, Javascript, Typescript, React, Redux, Vite, Tailwind ```| [Live App](https://house-hold-theta.vercel.app/) | [Repo](https://github.com/https://github.com/techtobit/HouseHold_Front) | [Repo](https://github.com/techtobit/houshold_backend) |
+| House Hold |``` Python, Django, Javascript, Typescript, React, Redux, Vite, Tailwind ```| [LivApp](https://house-hold-theta.vercel.app/)/[API](https://houshold-api.vercel.app/) | [Repo](https://github.com/techtobit/HouseHold-Frontend) | [Repo](https://github.com/techtobit/houshold_backend) |
 | E-Pay(F-commerce) |``` Javascript, React, MongoDB, Mongoose, NodeJS, Express, Vite, Tailwind ```| [Live App](https://e-pay-beige.vercel.app/) | [Repo](https://github.com/techtobit/e-pay) | [Repo](https://github.com/techtobit/POYSHAPAY_SERVER_MONGOOSE) |
 
 ---
-
+ 
 ## Front End
 
 | Project Name | Tech Stack | Live Link | Repositories |
